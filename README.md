@@ -168,3 +168,11 @@ Check INPUT_GLOB and make sure the path and pattern match where your invoices ac
 ## License
 
 MIT – feel free to copy and adapt this example.
+
+---
+
+## Need help or a custom setup?
+
+This repository is a reference example.
+
+If you need help tailoring it to your workflow, or want advice on a more advanced Parserdata API integration (custom schemas, scale, or production use), reach out to us: support@parserdata.com

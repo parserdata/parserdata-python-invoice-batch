@@ -9,6 +9,13 @@ You point the script at a folder, it uploads each invoice to the `/v1/extract` e
 
 ---
 
+## Official ParserData pages
+
+- **API reference:** https://parserdata.com/parserdata-api
+- **Pricing:** https://parserdata.com/pricing
+
+---
+
 ## What this example does
 
 - Reads all files from a folder that match a pattern (e.g. `~/Downloads/invoices/*`)
